@@ -1,4 +1,8 @@
 ---
-layout: home
 title: "Home"
+layout: default
 ---
+<article>
+	{% capture my_include %}{% include_relative main.md %}{% endcapture %}
+	{{ my_include | markdownify }}
+</article>

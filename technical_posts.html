@@ -1,19 +1,20 @@
 ---
-title: "posts"
+title: "Tech Posts"
 layout: default
 ---
 <article>
-  <header><h1>Posts</h1></header>
+  <header><h1>Tech Posts</h1></header>
   <ul class="archive">
     {%- assign posts = paginator.posts | default: site.posts -%}
     {% for post in posts %}
+      {% if post.path contains 'tech' %}
     <li>
       <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y-%m-%d" }}</time>
       <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
     </li>
+      {% endif %}
     {% endfor %}
   </ul>
-  {{ content }}
 </article>
 
 {% if paginator.total_pages > 1 %}
