@@ -1,0 +1,9 @@
+
+---
+title: "Home"
+layout: default
+---
+<article>
+	{% capture my_include %}{% include_relative publications.md %}{% endcapture %}
+	{{ my_include | markdownify }}
+</article>
