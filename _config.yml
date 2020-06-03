@@ -1,5 +1,5 @@
-title: "Jingyi(Kylie) He | 何靖怡"
-author: "Jingyi(Kylie) He"
+title: "Jade (Lei) Yu"
+author: "Jade Yu"
 description: "Really cool blog about ... something"
 permalink: /:title/
 lang: "en"
@@ -13,12 +13,13 @@ mathjax: true
 
 navigation:                  # site navigation in the header
   - index.html
-  - technical_posts.html
-  - personal_posts.html
+  - educations.html
+  - publications.html
+  - cv.html
 
 icons:                      # icons in the header, see http://fontawesome.com/icons
- envelope: 
- github: "https://github.com/kylie-box"
+ envelope: "jadeleiyu@cs.toronto.edu"
+ github: "https://github.com/jadeleiyu"
  rss: "feed.xml"
 
 comments:                    # embed disqus or isso comments
