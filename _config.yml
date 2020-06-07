@@ -18,7 +18,7 @@ navigation:                  # site navigation in the header
   - cv.html
 
 icons:                      # icons in the header, see http://fontawesome.com/icons
- envelope: "jadeleiyu@cs.toronto.edu"
+ envelope: "email.html"
  github: "https://github.com/jadeleiyu"
  rss: "feed.xml"
 
