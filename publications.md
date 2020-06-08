@@ -2,4 +2,7 @@
 layout: page
 title: Publications
 ---
-Publications
+* **Lei Yu**, Ardavan S. Nobandegani, Thomas Shultz. *Neural Network Modeling of Learning to Actively Learn*. In *Proceedings of the 41st Annual Meeting of the Cognitive Science Society*. (*CogSci2019*)
+    * Deep reinforcement learning model that actively seek for learning examples like human learners.
+* **Lei Yu**, Lana El Sanyoura, Yang Xu. *How nouns surface as verbs: Inference and generation in word class conversion*. In *Proceedings of the 42nd Annual Meeting of the Cognitive Science Society*.(*CogSci2020*)
+    * Probabilistic generative model that learns to interpret and produce denominal verbs in a human-like way.
