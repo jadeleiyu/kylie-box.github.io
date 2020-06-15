@@ -1,4 +1,4 @@
-<img src="photos/bio-photo.jpeg" alt="drawing" width="200"/>
+<img align="right" src="photos/bio-photo.jpeg" alt="drawing" width="200"/>
 
 I am a first year M.Sc. computer science student at <a href="https://www.utoronto.ca">University of Toronto</a> working with Professor [Yang Xu](www.cs.toronto.edu/~yangxu/index.html) in the [Computational Linguistics Group](http://www.cs.toronto.edu/compling/index.html). My research interest lies at the intersection of Natural Language Processing, Cognitive Science and Machine Learning.
 
