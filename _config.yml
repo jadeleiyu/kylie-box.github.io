@@ -13,7 +13,7 @@ mathjax: true
 
 navigation:                  # site navigation in the header
   - index.html
-  - educations.html
+  - education.html
   - publications.html
   - cv.html
 
