@@ -1,4 +1,4 @@
-<img align="left" src="photos/bio-photo.jpeg" alt="drawing" width="200"/>{:style="float: right;margin-right: 7px;margin-top: 7px;"}
+<img align="left" src="photos/bio-photo.jpeg" alt="drawing" width="200" style="float: right;margin-right: 7px;margin-top: 7px;"/>
 
 I am a first year M.Sc. computer science student at <a href="https://www.utoronto.ca">University of Toronto</a> working with Professor [Yang Xu](www.cs.toronto.edu/~yangxu/index.html) in the [Computational Linguistics Group](http://www.cs.toronto.edu/compling/index.html). My research interest lies at the intersection of Natural Language Processing, Cognitive Science and Machine Learning.
 
