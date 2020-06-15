@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Educations
+title: Education
 ---
 * M.Sc. in Computer Science, 2019.09 - Present
     * *University of Toronto, Toronto, Canada*
