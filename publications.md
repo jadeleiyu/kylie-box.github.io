@@ -6,3 +6,5 @@ title: Publications
     * Deep reinforcement learning model that actively seek for learning examples like human learners.
 * **Lei Yu**, Lana El Sanyoura, Yang Xu. *How nouns surface as verbs: Inference and generation in word class conversion*. In *Proceedings of the 42nd Annual Meeting of the Cognitive Science Society*.(*CogSci2020*)  [[pdf]](http://www.cs.toronto.edu/~yangxu/lei_et_al_2020_noun2verb.pdf)
     * Probabilistic generative model that learns to interpret and produce denominal verbs in a human-like way.
+* Tanchip, C., **Yu, L.**, Xu, A., and Xu, Y. (2020) Inferring symmetry in natural language. In *Findings of the Association for Computational Linguistics: EMNLP 2020*. [[pdf]](http://www.cs.toronto.edu/~yangxu/tanchip_et_al_2020_symmetry.pdf)
+    * Computational framework that models inference of predicate symmetry.
